@@ -1,4 +1,4 @@
-# Tejashween Kumar<br><br>Sophomore 🥀<br>Learning ML and Front-End
+# Tejashween Kumar<br><br> Pre-Final <br>Learning ML and Front-End
 
 
 # 💻 Tech Stack:
